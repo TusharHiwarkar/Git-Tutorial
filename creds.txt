@@ -1,0 +1,2 @@
+this is a text 
+which is created to be delete for remove operation in git  
